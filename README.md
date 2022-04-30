@@ -33,3 +33,5 @@ After the intial run you should have following data in the db:
   }
 ]
 ```
+
+After that check out branch `add-foreign-key-constraint` and run `npx prisma migrate deploy`.
